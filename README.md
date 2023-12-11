@@ -3,7 +3,7 @@
 Hello.....
 View my recent project using excel...
 
-* Sample Questions *
+#Sample Questions 
   
 1)Compare the sales and orders using single chart
   
@@ -23,7 +23,7 @@ View my recent project using excel...
 
 
 
-* Sample Insights*
+#Sample Insights
   
 i) Women are more likely to buy compared to men (~65%)
 
@@ -35,7 +35,7 @@ iv) Amazon , Flipkart and Myntra channels are maximum contributing (~80%)
 
 
 
-*Conclusion*
+#Conclusion
 
 Target women customer of age group (30-49 yrs) living in Maharashtra , Karnataka and Uttar Pradesh by showing ads/offer/coupons available on Amazon , Flipkart and Myntra. 
 
