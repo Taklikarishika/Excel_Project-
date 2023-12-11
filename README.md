@@ -4,6 +4,7 @@ Hello.....
 View my recent project using excel...
 
 * Sample Questions *
+  
 1)Compare the sales and orders using single chart
   
 2)Which month got the highest sales and orders?
@@ -18,7 +19,8 @@ View my recent project using excel...
 
 7)Which channel is contributing to maximum sales?
 
-8) Highest selling category?
+8)Highest selling category?
+
 
 
 * Sample Insights*
@@ -30,6 +32,7 @@ ii) Maharashtra , Karnataka , Uttar Pradesh are the top 3 states (~35%)
 iii) Adult age group (30-49 yrs) is max contributing (~50%)
 
 iv) Amazon , Flipkart and Myntra channels are maximum contributing (~80%)
+
 
 
 *Conclusion*
