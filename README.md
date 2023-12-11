@@ -23,6 +23,8 @@ View my recent project using excel...
 
 
 
+
+
 #Sample Insights
   
 i) Women are more likely to buy compared to men (~65%)
@@ -32,6 +34,8 @@ ii) Maharashtra , Karnataka , Uttar Pradesh are the top 3 states (~35%)
 iii) Adult age group (30-49 yrs) is max contributing (~50%)
 
 iv) Amazon , Flipkart and Myntra channels are maximum contributing (~80%)
+
+
 
 
 
